@@ -100,7 +100,7 @@
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "styled-components": "4.4.1",
-    "use-codemirror": "0.1.1"
+    "use-codemirror": "0.2.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
